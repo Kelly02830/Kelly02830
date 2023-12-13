@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kelly02830
-- 👀 I’m interested in korean culture, music
-- 🌱 I’m currently learning c/c++ and Kotlin
+- 👀 I’m interested in foreign cultures, music
+- 🌱 I’m currently learning Korean, Norwegian
 - 📫 How to reach me ...
 
 <!---
